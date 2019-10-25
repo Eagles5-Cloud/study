@@ -12,6 +12,8 @@ GO 환경 변수 셋팅을 해줍니다.
 [GO Env Settings](https://snowdeer.github.io/go/2018/01/21/how-to-programming-go-using-visual-studio-code/)
 
 
+
+
 # Hello Terraform!
 
 테라폼을 설치하는 법을 배우고 실습을 합니다(AWS 계정 및 AWS CLI 필요)
@@ -33,6 +35,8 @@ terrform 프로바이더 컨트리뷰션 하고 싶다면 아래의 문서를 �
 일부 프로바이더 테스팅을 위해선 과거 버전이 필요한데, 아래 사이트에서 옛날 버전을 설치합니다.
 
 [Terraform Versions releases](https://releases.hashicorp.com/terraform/)
+
+
 
 
 # Provider Reference
