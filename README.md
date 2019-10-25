@@ -1,4 +1,4 @@
-# Packages
+# Requirements
 테라폼은 GO 언어로 작성이 되어있으므로 GO 패키지에 대한 설치가 필수. CLI에서 go를 사용할 일이 있으므로 먼저 GO를 설치합니다
 
 [GO](https://golang.org/)
