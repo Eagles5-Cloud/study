@@ -16,7 +16,11 @@ GO 환경 변수 셋팅을 해줍니다.
 
 # Hello Terraform!
 
-테라폼을 설치하는 법을 배우고 실습을 합니다(AWS 계정 및 AWS CLI 필요)
+테라폼을 운영체제에 맞게 다운로드 후 셋팅합니다.
+
+[Download Terraform](https://www.terraform.io/downloads.html)
+
+테라폼을 설치하는 법을 배우고 실습을 합니다(AWS 계정 및 AWS CLI 필요).
 
 [Learn Terraform](https://learn.hashicorp.com/terraform)
 
